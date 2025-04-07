@@ -1,0 +1,141 @@
+{
+    "research_fields": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Data Science",
+      "Computational Biology",
+      "Bioinformatics",
+      "Genomics",
+      "Neuroscience",
+      "Robotics",
+      "Human-Computer Interaction",
+      "Climate Science",
+      "Environmental Science",
+      "Quantum Computing",
+      "Cybersecurity",
+      "Blockchain",
+      "Internet of Things",
+      "Materials Science",
+      "Renewable Energy",
+      "Healthcare Informatics",
+      "Drug Discovery",
+      "Psychology",
+      "Cognitive Science",
+      "Economics",
+      "Sociology"
+    ],
+    "methodologies": [
+      "Deep Learning",
+      "Reinforcement Learning",
+      "Statistical Analysis",
+      "Randomized Controlled Trials",
+      "Ethnography",
+      "Case Studies",
+      "Simulation",
+      "Experimental Design",
+      "Survey Research",
+      "Meta-analysis",
+      "Longitudinal Studies",
+      "Field Experiments",
+      "Machine Learning",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Qualitative Analysis",
+      "Quantitative Analysis",
+      "Mixed Methods",
+      "Systematic Review",
+      "Phenomenology"
+    ],
+    "techniques": [
+      "Neural Networks",
+      "Transformer Models",
+      "Random Forests",
+      "Support Vector Machines",
+      "Bayesian Statistics",
+      "Regression Analysis",
+      "Cluster Analysis",
+      "Factor Analysis",
+      "Time Series Analysis",
+      "Network Analysis",
+      "Thematic Analysis",
+      "Discourse Analysis",
+      "Grounded Theory",
+      "Content Analysis",
+      "Sentiment Analysis",
+      "Image Processing",
+      "Signal Processing",
+      "Spectroscopy",
+      "Crystallography",
+      "Genetic Sequencing"
+    ],
+    "intent_keywords": {
+      "find_collaborator": [
+        "find", "looking for", "search", "discover", "identify", "locate", "need", "want", "collaborator", 
+        "partner", "researcher", "expert", "specialist", "colleague", "co-author", "team member"
+      ],
+      "by_field": [
+        "in", "specializing in", "focused on", "working on", "expert in", "field of", "area of", 
+        "discipline", "domain", "subject", "topic"
+      ],
+      "by_institution": [
+        "at", "from", "based at", "affiliated with", "working at", "employed by", "university", 
+        "institute", "college", "lab", "organization", "department"
+      ],
+      "by_publication": [
+        "published", "author of", "written", "paper", "article", "journal", "conference", "publication", 
+        "research on", "work on", "studied"
+      ],
+      "by_project": [
+        "project", "research project", "initiative", "study", "investigation", "experiment", "trial", 
+        "working on", "involved in", "engaged in", "contributing to"
+      ],
+      "availability": [
+        "available", "open to", "interested in", "willing to", "looking for", "seeking", "time for", 
+        "capacity for", "schedule", "timeframe", "deadline", "timeline"
+      ],
+      "contact": [
+        "contact", "reach", "email", "phone", "message", "get in touch with", "connect with", 
+        "introduction to", "introduction with", "meet", "talk to", "speak with"
+      ],
+      "skills": [
+        "skills", "expertise", "competencies", "abilities", "proficient in", "specialized in", 
+        "experienced in", "knowledgeable about", "familiar with", "trained in"
+      ]
+    },
+    "interdisciplinary_areas": [
+      "AI Ethics",
+      "Computational Social Science",
+      "Digital Humanities",
+      "Bioinformatics",
+      "Neuroengineering",
+      "Health Informatics",
+      "Environmental Data Science",
+      "Quantum Information Science",
+      "Human-AI Collaboration",
+      "Computational Creativity",
+      "Sustainable Computing",
+      "Human-centered AI",
+      "AI for Social Good",
+      "Computational Biology",
+      "Cognitive Computing"
+    ],
+    "emerging_topics": [
+      "Large Language Models",
+      "Generative AI",
+      "Federated Learning",
+      "Edge AI",
+      "Explainable AI",
+      "Synthetic Biology",
+      "CRISPR Technologies",
+      "Quantum Machine Learning",
+      "Digital Twins",
+      "Extended Reality",
+      "Brain-Computer Interfaces",
+      "Personalized Medicine",
+      "Smart Cities",
+      "Climate Tech",
+      "Space Technology"
+    ]
+  }

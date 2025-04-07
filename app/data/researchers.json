@@ -1,0 +1,179 @@
+{
+    "researchers": [
+      {
+        "id": "r001",
+        "name": "Dr. Sarah Johnson",
+        "title": "Associate Professor",
+        "institution": "Stanford University",
+        "department": "Computer Science",
+        "research_fields": ["Machine Learning", "Natural Language Processing", "AI Ethics"],
+        "expertise": ["Deep Learning", "Transformer Models", "Bias Detection"],
+        "publications": [
+          {
+            "title": "Ethical Considerations in Large Language Models",
+            "year": 2023,
+            "journal": "Computational Linguistics",
+            "doi": "10.1145/3442188.3445922"
+          },
+          {
+            "title": "Improving Context Understanding in Dialogue Systems",
+            "year": 2022,
+            "journal": "ACL Proceedings",
+            "doi": "10.18653/v1/2022.acl-long.555"
+          }
+        ],
+        "current_projects": ["Responsible AI Development", "Cross-lingual Transfer Learning"],
+        "collaboration_interests": ["Ethics in AI", "Multimodal Learning", "Interdisciplinary AI Applications"],
+        "availability": "Open to new collaborations",
+        "contact": {
+          "email": "sjohnson@stanford.edu",
+          "website": "https://cs.stanford.edu/~sjohnson",
+          "social": {
+            "twitter": "@SarahAI_Research",
+            "linkedin": "sarahjohnson-ai"
+          }
+        },
+        "keywords": ["ethical AI", "NLP", "deep learning", "language models"]
+      },
+      {
+        "id": "r002",
+        "name": "Dr. Michael Chen",
+        "title": "Research Scientist",
+        "institution": "MIT",
+        "department": "Biology",
+        "research_fields": ["Computational Biology", "Genomics", "Bioinformatics"],
+        "expertise": ["Gene Expression Analysis", "Single-cell RNA Sequencing", "Machine Learning for Genomics"],
+        "publications": [
+          {
+            "title": "Machine Learning Approaches to Predict Gene Function from Expression Data",
+            "year": 2023,
+            "journal": "Nature Biotechnology",
+            "doi": "10.1038/s41587-023-01754-3"
+          },
+          {
+            "title": "Integrative Analysis of Multi-omics Data",
+            "year": 2022,
+            "journal": "Genome Biology",
+            "doi": "10.1186/s13059-022-02731-w"
+          }
+        ],
+        "current_projects": ["Drug Response Prediction", "Cancer Genomics"],
+        "collaboration_interests": ["AI in Healthcare", "Drug Discovery", "Systems Biology"],
+        "availability": "Limited availability until June 2025",
+        "contact": {
+          "email": "mchen@mit.edu",
+          "website": "https://biology.mit.edu/people/michael-chen",
+          "social": {
+            "twitter": "@MChenBio",
+            "linkedin": "michaelchen-bio"
+          }
+        },
+        "keywords": ["genomics", "computational biology", "drug discovery", "machine learning"]
+      },
+      {
+        "id": "r003",
+        "name": "Dr. Emily Rodriguez",
+        "title": "Professor",
+        "institution": "UC Berkeley",
+        "department": "Environmental Science",
+        "research_fields": ["Climate Modeling", "Environmental Data Science", "Sustainability"],
+        "expertise": ["Climate Prediction", "Earth System Modeling", "Remote Sensing"],
+        "publications": [
+          {
+            "title": "Improving Regional Climate Models with Machine Learning",
+            "year": 2024,
+            "journal": "Nature Climate Change",
+            "doi": "10.1038/s41558-024-01642-1"
+          },
+          {
+            "title": "Deep Learning for Satellite Image Analysis in Environmental Monitoring",
+            "year": 2023,
+            "journal": "Remote Sensing of Environment",
+            "doi": "10.1016/j.rse.2023.113289"
+          }
+        ],
+        "current_projects": ["AI for Climate Adaptation", "Urban Heat Island Mitigation"],
+        "collaboration_interests": ["Climate Tech", "Sustainable AI", "Climate Policy"],
+        "availability": "Open to new collaborations",
+        "contact": {
+          "email": "erodriguez@berkeley.edu",
+          "website": "https://environmentalscience.berkeley.edu/faculty/rodriguez",
+          "social": {
+            "twitter": "@EmilyClimateAI",
+            "linkedin": "emilyrodriguez-climate"
+          }
+        },
+        "keywords": ["climate modeling", "environmental science", "sustainability", "remote sensing"]
+      },
+      {
+        "id": "r004",
+        "name": "Dr. James Wilson",
+        "title": "Assistant Professor",
+        "institution": "Carnegie Mellon University",
+        "department": "Robotics",
+        "research_fields": ["Human-Robot Interaction", "Reinforcement Learning", "Robotic Manipulation"],
+        "expertise": ["Social Robotics", "Imitation Learning", "Haptic Sensing"],
+        "publications": [
+          {
+            "title": "Teaching Robots through Natural Interaction",
+            "year": 2024,
+            "journal": "Robotics and Autonomous Systems",
+            "doi": "10.1016/j.robot.2024.104152"
+          },
+          {
+            "title": "Reinforcement Learning from Human Feedback in Robotic Manipulation",
+            "year": 2023,
+            "journal": "ICRA Proceedings",
+            "doi": "10.1109/ICRA48891.2023.10161045"
+          }
+        ],
+        "current_projects": ["Assistive Robotics for Elderly Care", "Tactile-based Manipulation"],
+        "collaboration_interests": ["Healthcare Robotics", "Robot Learning", "Human-centered AI"],
+        "availability": "Seeking collaborators for NSF grant proposal",
+        "contact": {
+          "email": "jwilson@cmu.edu",
+          "website": "https://robotics.cmu.edu/~jwilson",
+          "social": {
+            "twitter": "@JWilsonRobotics",
+            "linkedin": "jameswilson-robotics"
+          }
+        },
+        "keywords": ["human-robot interaction", "reinforcement learning", "social robotics", "manipulation"]
+      },
+      {
+        "id": "r005",
+        "name": "Dr. Aisha Patel",
+        "title": "Senior Researcher",
+        "institution": "Harvard Medical School",
+        "department": "Neuroscience",
+        "research_fields": ["Computational Neuroscience", "Brain-Computer Interfaces", "Neural Networks"],
+        "expertise": ["EEG Analysis", "Neural Decoding", "Cognitive Modeling"],
+        "publications": [
+          {
+            "title": "Real-time Decoding of Motor Intent using Deep Neural Networks",
+            "year": 2024,
+            "journal": "Nature Neuroscience",
+            "doi": "10.1038/s41593-024-01321-4"
+          },
+          {
+            "title": "Closed-loop Neural Interfaces for Cognitive Enhancement",
+            "year": 2023,
+            "journal": "Journal of Neural Engineering",
+            "doi": "10.1088/1741-2552/acf123"
+          }
+        ],
+        "current_projects": ["Non-invasive BCI Development", "Neural Rehabilitation Technologies"],
+        "collaboration_interests": ["Neuroengineering", "AI in Healthcare", "Accessible Technology"],
+        "availability": "Available for consulting and joint grants",
+        "contact": {
+          "email": "apatel@hms.harvard.edu",
+          "website": "https://neuro.hms.harvard.edu/faculty/patel",
+          "social": {
+            "twitter": "@AishaPatelNeuro",
+            "linkedin": "aishapatel-neuro"
+          }
+        },
+        "keywords": ["computational neuroscience", "BCI", "neural decoding", "cognitive modeling"]
+      }
+    ]
+  }
